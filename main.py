@@ -7,7 +7,7 @@ import shop
 
 from telebot import types
 
-bot_token_api = "8305303302:AAGtXs6IFJFd_JuZRDDLmaehpiDbzhu6kxc"
+bot_token_api = "bot:token"
 
 bot = telebot.TeleBot(bot_token_api)
 
